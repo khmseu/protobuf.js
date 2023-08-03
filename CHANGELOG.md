@@ -1,3 +1,5 @@
+## [7.2.4](https://github.com/protobufjs/protobuf.js/releases/tag/7.2.4)
+
 # Changelog
 
 ## [7.2.4](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v7.2.3...protobufjs-v7.2.4) (2023-06-23)
